@@ -31,4 +31,7 @@ Utilize os prompts para criar análise financeira siga o passo a passo abaixo.
 
 1. Use os prompts de roteiro no chagpt
 2. Use a planilha para gerar análise no chatgpt
-3. 
+
+## Expert  
+
+Luiz   | Github | Linkein
