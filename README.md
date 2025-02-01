@@ -7,7 +7,7 @@ Repositório para a atividade Como organizar sua vida Financeira com Planilhas I
 
 > ## Tecnologias utilizadas no projeto  
 - [_ChatGPT_](https://chatgpt.com)
-- [_Lookerstudui_](https://lookerstudio.google.com/)
+- [_Lookerstudio_](https://lookerstudio.google.com/)
 - Microsoft 365 Copilot/ Excel
   
 É possível utilizar o Lookerstudio para obter resultados semelhantes e mais fáceis.  
